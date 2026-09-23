@@ -1,0 +1,4 @@
+__pycache__/
+.vscode/
+*.pyc
+expense_tracker.db
